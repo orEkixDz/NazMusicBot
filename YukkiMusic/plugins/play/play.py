@@ -65,7 +65,7 @@ async def play_commnd(
                 [
                     [
                         InlineKeyboardButton(
-                            text="ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴠᴇʀɪғʏ",
+                            text="okғok",
                             url=f"https://t.me/{app.username}?start=verify",
                         )
                     ]
